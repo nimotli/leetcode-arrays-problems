@@ -1,6 +1,6 @@
 #NAME : CONTAINER WITH MOST WATER
 #CATEGORY : ARRAYS
-#DIFFICULTY : HARD
+#DIFFICULTY : Medium
 #LINK : https://leetcode.com/problems/container-with-most-water/
 
 class Solution(object):
