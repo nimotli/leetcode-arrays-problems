@@ -4,7 +4,7 @@
 #LINK : https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/
 
 class Solution:
-    def searchRange(self, nums, target) -> List[int]:
+    def searchRange(self, nums, target):
         ret = [-1,-1]
         if target not in nums:
             return ret
